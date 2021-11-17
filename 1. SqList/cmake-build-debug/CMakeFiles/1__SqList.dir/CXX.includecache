@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/linsanity/Documents/Github/Skill_Package/5. Data Structure and Algorithm/1. SqList/main.cpp
+iostream
+-
+string
+-
+
